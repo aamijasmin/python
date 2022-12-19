@@ -13,7 +13,6 @@ for f in fav_mobs:
          print("mob : "+ f +"is not available ")
 
 
-
 # mobs = ['vivo', 'oppo', 'samsung', 'lava', 'iphon', 'realme', 'redme']
 # for f in fruits:
     # print("fruits", f.title())
@@ -31,3 +30,9 @@ for j in fruits:
 name = ['jasmin', 'anupam', 'sutapa', 'riya', 'sanju', 'rosni', 'sonali', 'susmita', 'rahul', 'mohasin', 'moha', 'jonaki', 'juliet', 'raaj','priya', 'harimahan', ' haridas', 'haripal', 'suman', 'joya', 'prantik', 'kartik', 'nayra', 'arif', 'souvik', 'ripon', 'puspa', 'allu arjun', 'ram', 'xukai', 'sunni', 'nobita', 'sunio', 'sinchain', 'gyan', 'arman', 'oggy', 'jack', 'paplu', 'dhaplu', 'jhaplu', 'sizuka', 'priti', 'ruhi', 'kenichi', 'ninja hattori', 'sisumanu', 'shinzo', 'bob', 'kutta']
 for k in name:
     print("hiiii kii khobor ", k.title())
+
+
+
+
+
+
